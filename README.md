@@ -10,8 +10,8 @@ Perform Data Preparation by cleaning the data and removing null values.
 
 # Tasks:
   
-  ### 1.Identify the genres which are more significant and do simple analysis for the distribution according to genres.
+  ### 1. Identify the genres which are more significant and do simple analysis for the distribution according to genres.
 
-  ### 2.Identify Which genres have higher user ratings. 
+  ### 2. Identify Which genres have higher user ratings. 
 
-  ### 3.Identify trend of user rating based on pricing.
+  ### 3. Identify trend of user rating based on pricing.
